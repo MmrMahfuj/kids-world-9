@@ -1,0 +1,13 @@
+.nav-link{
+    font-weight: 700;
+    color: white !important;
+    margin-right: 10px;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+.nav-link:hover{
+    background-color: rgb(175, 136, 129);
+}
+.nav-link:focus{
+    color: yellow !important;
+}
