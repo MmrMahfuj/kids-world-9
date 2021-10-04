@@ -16,12 +16,13 @@ const Service = (props) => {
                     <Card.Text>
                         <small>{rutin}</small>
                     </Card.Text>
-                </Card.Body>
-                <Card.Footer>
                     <span className="custom-style"><small>{tech}</small> <small className="custom-bold">${price}</small></span>
-                </Card.Footer>
+                </Card.Body>
+
+
+
             </Card>
-        </Col>
+        </Col >
     );
 };
 

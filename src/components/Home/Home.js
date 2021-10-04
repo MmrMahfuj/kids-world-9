@@ -64,7 +64,7 @@ const Home = () => {
             <section>
                 <Container>
 
-                    <Row xs={1} md={4} className="g-4">
+                    <Row xs={1} md={3} className="g-4">
                         {
 
                             services.slice(0, 4).map(service => <Service service={service}></Service>)
