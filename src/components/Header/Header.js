@@ -9,17 +9,22 @@ const Header = () => {
         color: "red"
     }
     return (
-        <Navbar bg="light" variant="light" className="mb-3">
+        <Navbar bg="light" expand="lg">
             <Container>
                 <NavLink className="custom-header-title" to="/home">KIDS <span className="custome-title">WORLD</span></NavLink>
-                <Nav className="me-auto">
-                    <NavLink className="nav-link" activeStyle={activeStyle} to="/home">Home</NavLink>
-                    <NavLink className="nav-link" activeStyle={activeStyle} to="/services">Services</NavLink>
-                    <NavLink className="nav-link" activeStyle={activeStyle} to="/teachers">Teachers</NavLink>
-                    <NavLink className="nav-link" activeStyle={activeStyle} to="/about">About</NavLink>
-                </Nav>
+                <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                <Navbar.Collapse id="basic-navbar-nav">
+                    <Nav className="me-auto">
+                        <NavLink className="nav-link" activeStyle={activeStyle} to="/home">Home</NavLink>
+                        <NavLink className="nav-link" activeStyle={activeStyle} to="/services">Services</NavLink>
+                        <NavLink className="nav-link" activeStyle={activeStyle} to="/teachers">Teachers</NavLink>
+                        <NavLink className="nav-link" activeStyle={activeStyle} to="/about">About</NavLink>
+
+                    </Nav>
+                </Navbar.Collapse>
             </Container>
         </Navbar>
+
     );
 };
 
