@@ -22,7 +22,7 @@ const About = () => {
             </section>
 
             <section className="border m-5 p-3">
-                <div className="row">
+                <div className="row g-4">
                     <div className="col-md-4">
                         <div>
                             <div>

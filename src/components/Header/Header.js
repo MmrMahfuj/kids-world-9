@@ -9,7 +9,7 @@ const Header = () => {
         color: "red"
     }
     return (
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="light" expand="lg" className="mb-3">
             <Container>
                 <NavLink className="custom-header-title" to="/home">KIDS <span className="custome-title">WORLD</span></NavLink>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
