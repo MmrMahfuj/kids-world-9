@@ -11,7 +11,7 @@ const Header = () => {
     return (
         <Navbar bg="light" variant="light" className="mb-3">
             <Container>
-                <Navbar.Brand to="/home">KIDS WORLD</Navbar.Brand>
+                <NavLink className="custom-header-title" to="/home">KIDS <span className="custome-title">WORLD</span></NavLink>
                 <Nav className="me-auto">
                     <NavLink className="nav-link" activeStyle={activeStyle} to="/home">Home</NavLink>
                     <NavLink className="nav-link" activeStyle={activeStyle} to="/services">Services</NavLink>

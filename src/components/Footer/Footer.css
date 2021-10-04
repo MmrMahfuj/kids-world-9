@@ -1,5 +1,27 @@
 .footer{
+    color: white;
     text-align: center;
-    background-color: black;
-    padding: 40px 0px;
+    background-color: #212529;
+    padding: 5px, 0px;
+}
+.custome-title{
+    color: #228B22;
+}
+.custom-social-i{
+    margin-right: 15px;
+    cursor: pointer;
+}
+.footer-link-title{
+    padding-top: 2px;
+    font-weight: 600;
+    font-size: 25px;
+}
+.custom-footer-link{
+    display: flex;
+    flex-direction: column;
+}
+.footer-nav-link{
+    text-decoration: none;
+    color: white;
+    
 }
