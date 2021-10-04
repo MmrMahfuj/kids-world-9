@@ -7,7 +7,6 @@ import num3 from "../../images/sc-3.jpg";
 import num4 from "../../images/sc-4.jpg";
 import useServices from '../useServices/useServices';
 import Service from '../Service/Service';
-import { NavLink } from 'react-router-dom';
 
 const Home = () => {
     const [services, setServices] = useServices();

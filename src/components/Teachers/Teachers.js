@@ -8,6 +8,7 @@ import './Teachers.css';
 
 
 const Teachers = () => {
+    // Teachers data load and setSatate
     const [teachers, setTeachers] = useState([]);
     useEffect(() => {
         fetch('./teacher.json')
