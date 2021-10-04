@@ -1,0 +1,128 @@
+[
+    {
+        "title": "Building Confidence",
+        "img": "https://img-assignment-9.netlify.app/imgages2/13.jpg",
+        "price": 200,
+        "id": 1,
+        "des": "Kiedis has come a long way since his diagnosis of hepatitis C in the 1990s. He attributes the source of his infection to intravenous drug use",
+        "tech": "Mr. Jim Kellough",
+        "rutin": "Sat-Thu 10 AM - 12 PM"
+    },
+    {
+        "title": "Creative Expressions",
+        "img": "https://img-assignment-9.netlify.app/imgages2/10.jpg",
+        "price": 300,
+        "id": 2,
+        "des": "Flea and Anthony Kiedis onstage at an early Red Hot Chili Peppers show. ... and his commitment to artistic expression lit a fire in Flea",
+        "tech": "Mr. Luther Rabuse",
+        "rutin": "Sat-Thu 04 PM - 05 PM"
+    },
+    {
+        "title": "Elite group organization",
+        "img": "https://img-assignment-9.netlify.app/imgages2/14.jpg",
+        "price": 100,
+        "id": 3,
+        "des": "The study found that the athletes brains had greater visual perceptual range and possessed more cognitive abilities than their non-athlete peers",
+        "tech": "Mr. Henry Zuleger",
+        "rutin": "Sat-Thu 10 AM - 12 PM"
+    },
+    {
+        "title": "Interaction Based Methods",
+        "img": "https://img-assignment-9.netlify.app/imgages2/21.jpg",
+        "price": 90,
+        "id": 4,
+        "des": "Try using words that might appear on the page you’re looking for. For example, \"cake recipes\" instead of \"how to make a cake",
+        "tech": "Mrs. Ethel Olde",
+        "rutin": "Sat-Thu 09 AM - 12 PM"
+    },
+    {
+        "title": "Hands on exercises accelerate learning",
+        "img": "https://img-assignment-9.netlify.app/imgages2/11.jpg",
+        "price": 70,
+        "id": 5,
+        "des": "Duis vel orci erat. Aenean quis sem fringilla, scelerisque lectus et, vestibulum arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "tech": "Mrs. Fern Bopp",
+        "rutin": "Sat-Thu 11 AM - 12 PM"
+    },
+    {
+        "title": "The role of parents in child’s growth",
+        "img": "https://img-assignment-9.netlify.app/imgages2/17.jpg",
+        "price": 160,
+        "id": 6,
+        "des": "Pellentesque nec tellus mauris. Fusce nec velit tincidunt tortor placerat semper.",
+        "tech": "Mrs. Emely Killian",
+        "rutin": "Sat-Thu 11 AM - 12 PM"
+    },
+    {
+        "title": "Assignments stimulate independent thinking",
+        "img": "https://img-assignment-9.netlify.app/imgages2/22.jpg",
+        "price": 180,
+        "id": 7,
+        "des": "By focusing on tasks and outcomes that stretch their skills, these young people are more likely ",
+        "tech": "Mrs. Olivia Ishee",
+        "rutin": "Sat-Thu 08 AM - 10 AM"
+    },
+    {
+        "title": "Ensemble Music develops team building",
+        "img": "https://img-assignment-9.netlify.app/imgages2/12.jpg",
+        "price": 30,
+        "id": 8,
+        "des": "It energizes the group and releases mental stress. It teaches the metaphor of the orchestra within a corporate situation",
+        "tech": "Mrs. Aubrey Deer",
+        "rutin": "Sat-Thu 08 AM - 10 AM"
+    },
+    {
+        "title": "Sports Builds Up Intelligence",
+        "img": "https://img-assignment-9.netlify.app/imgages2/20.jpg",
+        "price": 100,
+        "id": 9,
+        "des": "Anthony Kiedis is an American singer. He is a founding member and lead vocalist of the rock band Red Hot Chili",
+        "tech": "Mr. Jim Kellough",
+        "rutin": "Sat-Thu 08 AM - 11 AM"
+    },
+    {
+        "title": "A well adjusted child is a delight to bring up",
+        "img": "https://img-assignment-9.netlify.app/imgages2/18.jpg",
+        "price": 60,
+        "id": 10,
+        "des": " ask other readers questions about Scar Tissue, please sign up Just read Fleas book Acid for the Children, has anyone read both?",
+        "tech": "Mrs. Olivia Ishee",
+        "rutin": "Sat-Thu 08 AM - 11 AM"
+    },
+    {
+        "title": "Ensemble Music develops team building",
+        "img": "https://img-assignment-9.netlify.app/imgages2/23.jpg",
+        "price": 140,
+        "id": 11,
+        "des": "Donec et elementum mauris, sed accumsan ante. Donec suscipit neque vel mauris lobortis",
+        "tech": "Mr. Henry Zuleger",
+        "rutin": "Sat-Thu 08 AM - 11 AM"
+    },
+    {
+        "title": "Economy and creativity",
+        "img": "https://img-assignment-9.netlify.app/imgages2/20.jpg",
+        "price": 130,
+        "id": 12,
+        "des": "Sed sollicitudin odio vitae blandit aliquet. Praesent vitae urna ornare, sodales lacus lobortis, dictum risus. Donec ut tellus euismod, venenatis elit quis, volutpat nisl",
+        "tech": "Mr. Luther Rabuse",
+        "rutin": "Sat-Thu 08 AM - 11 AM"
+    },
+    {
+        "title": "Swimming Champion in the making",
+        "img": "https://img-assignment-9.netlify.app/imgages2/16.jpg",
+        "price": 90,
+        "id": 13,
+        "des": "Maecenas convallis quam eget urna imperdiet, eget gravida erat rutrum. Pellentesque rhoncus odio et lorem pharetra dictum.",
+        "tech": "Mrs. Ethel Olde",
+        "rutin": "Sat-Thu 08 AM - 11 AM"
+    },
+    {
+        "title": "Annual Sports Day for tiny tots",
+        "img": "https://img-assignment-9.netlify.app/imgages2/13.jpg",
+        "price": 40,
+        "id": 14,
+        "des": "Nam vehicula tortor a sapien consectetur congue. Curabitur dolor nibh, rhoncus vitae enim non, auctor malesuada purus.",
+        "tech": "Mrs. Fern Bopp",
+        "rutin": "Sat-Thu 08 AM - 11 AM"
+    }
+]

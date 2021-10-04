@@ -1,11 +1,12 @@
 import React from 'react';
+import { Container } from 'react-bootstrap';
 import './Footer.css';
 
 const Footer = () => {
     return (
-        <div className="footer">
-            <h2>Al-Right &copy; </h2>
-        </div>
+        <footer className="footer mt-4">
+            <p>2021 &copy; ALL RIGHTS RESERVED</p>
+        </footer>
     );
 };
 

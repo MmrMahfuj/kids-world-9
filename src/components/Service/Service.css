@@ -1,0 +1,16 @@
+
+.custom-cart{
+    min-height: 300px;
+}
+.custom-cart-img{
+    height: 300px !important;
+    border-bottom: 3px solid rgb(102, 102, 180);
+}
+.custom-style{
+    display: flex;
+    justify-content: space-between;
+}
+.custom-bold{
+    font-weight: 800;
+    color: rgb(102, 102, 180);
+}

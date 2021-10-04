@@ -1,0 +1,50 @@
+[
+    {
+        "img": "https://img-assignment-9.netlify.app/images/5.jpg",
+        "name": "Mrs. Aubrey Deer",
+        "sub": "Arts",
+        "id": 1
+    },
+    {
+        "img": "https://img-assignment-9.netlify.app/images/4.jpg",
+        "name": "Mrs. Olivia Ishee",
+        "sub": "Science",
+        "id": 2
+    },
+    {
+        "img": "https://img-assignment-9.netlify.app/images/3.jpg",
+        "name": "Mrs. Emely Killian",
+        "sub": "Commerce",
+        "id": 3
+    },
+    {
+        "img": "https://img-assignment-9.netlify.app/images/2.jpg",
+        "name": "Mrs. Fern Bopp",
+        "sub": "Business",
+        "id": 4
+    },
+    {
+        "img": "https://img-assignment-9.netlify.app/images/1.jpg",
+        "name": "Mrs. Ethel Olde",
+        "sub": "Science",
+        "id": 5
+    },
+    {
+        "img": "https://img-assignment-9.netlify.app/images/6.jpg",
+        "name": "Mr. Henry Zuleger",
+        "sub": "Business",
+        "id": 6
+    },
+    {
+        "img": "https://img-assignment-9.netlify.app/images/7.jpg",
+        "name": "Mr. Luther Rabuse",
+        "sub": "Commerce",
+        "id": 7
+    },
+    {
+        "img": "https://img-assignment-9.netlify.app/images/9.jpg",
+        "name": "Mr. Jim Kellough",
+        "sub": "Arts",
+        "id": 8
+    }
+]

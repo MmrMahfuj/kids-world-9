@@ -1,10 +1,21 @@
-import React from 'react';
+
+import { Container, Row } from 'react-bootstrap';
+import Service from '../Service/Service';
+import useServices from '../useServices/useServices';
 
 const Services = () => {
+    const [services, setServices] = useServices();
+
     return (
-        <div>
-            <h2>this is services components</h2>
-        </div>
+        <Container>
+            <Row xs={1} md={4} className="g-4">
+                {
+
+                    services.map(service => <Service service={service}></Service>)
+                }
+
+            </Row>
+        </Container>
     );
 };
 
