@@ -11,7 +11,7 @@ const Services = () => {
             <Row xs={1} md={4} className="g-4">
                 {
 
-                    services.map(service => <Service service={service}></Service>)
+                    services.map(service => <Service key={service.id} service={service}></Service>)
                 }
 
             </Row>

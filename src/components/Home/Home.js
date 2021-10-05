@@ -66,7 +66,7 @@ const Home = () => {
                     <Row xs={1} md={3} className="g-4">
                         {
 
-                            services.slice(0, 4).map(service => <Service service={service}></Service>)
+                            services.slice(0, 4).map(service => <Service key={service.id} service={service}></Service>)
                         }
                     </Row>
 
