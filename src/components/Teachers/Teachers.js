@@ -19,7 +19,7 @@ const Teachers = () => {
         <Container>
             <section>
                 <h2 className="mb-3">Our Main Teachers</h2>
-                <div className="row">
+                <div className="row g-4">
                     <div className="col-md-4">
                         <div className="border">
                             <div>

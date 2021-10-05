@@ -3,7 +3,7 @@
     min-height: 300px;
 }
 .custom-cart-img{
-    height: 400px !important;
+    height: 230px !important;
     border-bottom: 3px solid rgb(102, 102, 180);
 }
 .custom-style{
@@ -12,6 +12,9 @@
     font-size: 20px;
 }
 .custom-bold{
+    background-color: rgb(222, 239, 240);
+    padding: 3px 10px;
+    border-radius: 5px;
     font-weight: 800;
     color: rgb(102, 102, 180);
 }

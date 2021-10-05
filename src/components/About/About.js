@@ -6,7 +6,7 @@ import './About.css';
 
 const About = () => {
     return (
-        <Container className=" custom-about m-3">
+        <Container className=" mx-auto custom-about m-3">
             <section className="m-3 mb-5 text-center">
                 <h1>About Us</h1>
                 <p>Welcome to kids world, your number one source for all things School. We're dedicated to providing you the very best of space, with an emphasis on school, Child, parents.</p>
